@@ -1,1 +1,7 @@
-{ "active": false, "valid_until": "2026-08-10" }
+{
+  "clients": {
+    "dr-nikhil":  { "active": true,  "valid_until": "2026-08-10" },
+    "dr-priya":   { "active": true,  "valid_until": "2026-09-01" },
+    "clinic-abc": { "active": false, "valid_until": "2026-07-01" }
+  }
+}
